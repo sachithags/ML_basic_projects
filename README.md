@@ -1,17 +1,17 @@
 # **Wine Quality Dataset**
 
-**Overview**
+### **Overview**
 
 This dataset contains information about various physicochemical properties of white and red wine samples, along with their quality ratings. The data can be used to analyze the relationship between wine characteristics and perceived quality, or to build predictive models for wine quality assessment.
 
-**Dataset Details**
+### **Dataset Details**
 
 File Name: winequality.csv
 Format: CSV (Comma-Separated Values)
 Number of Rows: 1,599 (including header)
 Number of Columns: 13
 
-**Variables**
+### **Variables**
 
 - type: Type of wine (white or red)
 - fixed acidity: Primary fixed acids in wine (tartaric, malic, citric, etc.)
@@ -27,7 +27,7 @@ Number of Columns: 13
 - alcohol: Percent alcohol content of the wine
 - quality: Score between 0 (very bad) and 10 (very excellent), based on sensory data
 
-**Notes**
+### **Notes**
 - Some values are missing (represented by empty cells).
 - Quality scores range from 3 to 9 in this dataset.
 - The data appears to be a combination of white and red wine samples.
